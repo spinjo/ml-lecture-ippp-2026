@@ -7,4 +7,4 @@ This repo hosts materials for a IPPP-internal lecture on machine learning held i
 | Lecture 1 | [lecture1_slides.pdf](lecture1_slides.pdf) | [lecture1_exercises.ipynb](lecture1_exercises.ipynb) |
 | Lecture 2 | [lecture2_slides.pdf](lecture2_slides.pdf) | [lecture2_exercises.ipynb](lecture2_exercises.ipynb) |
 | Lecture 3 | [lecture3_slides.pdf](lecture3_slides.pdf) | [lecture3_exercises.ipynb](lecture3_exercises.ipynb) |
-| Lecture 4 | | |
+| Lecture 4 | [lecture4_slides.pdf](lecture4_slides.pdf) | |
